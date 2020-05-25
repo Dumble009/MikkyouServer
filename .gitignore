@@ -1,0 +1,4 @@
+node_modules
+get-started-node
+*.crt
+*.key

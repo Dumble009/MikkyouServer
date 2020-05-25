@@ -1,0 +1,25 @@
+{
+  "name": "mikkyouserver",
+  "version": "1.0.0",
+  "description": "Server of Mikkyou",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "socket.io"
+  ],
+  "author": "db009",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "socket.io": "2.3.0",
+    "websocket.io": "0.2.1",
+    "ws": "7.2.5"
+  },
+  "engines": {
+    "node": "12.16.2",
+    "npm": "6.14.4"
+  }
+}

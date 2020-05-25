@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Mikkyou
+   random-route: true
+   memory: 256M
